@@ -31,6 +31,7 @@
     "current-script-polyfill": "^1.0.0",
     "element-tiptap": "^1.27.1",
     "element-ui": "^2.15.13",
+    "node-fetch-native": "^1.6.7",
     "nuxt": "^2.17.1",
     "nuxt-facebook-pixel-module": "^1.5.0",
     "nuxt-jsonld": "^1.5.3",
